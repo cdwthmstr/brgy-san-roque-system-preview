@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏘️ Barangay San Roque Family Tree System
+# <img src="https://api.iconify.design/tabler:building-community.svg?color=%232d4a9e&width=40" width="34" style="vertical-align:middle" /> Barangay San Roque Family Tree System
 
 **Household Profiling, Resident Verification & Data Analytics for real barangay use**
 
@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Household & Resident Management
+### <img src="https://api.iconify.design/tabler:home.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> Household & Resident Management
 - Registration wizard with auto-generated house addresses
 - Demographic, health, and program-eligibility data (PWD, senior citizen, solo parent, OFW, voter status)
 - Soft-delete/archive workflow instead of destructive deletes
@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 </td>
 <td width="50%" valign="top">
 
-### 🌳 Family Tree
+### <img src="https://api.iconify.design/tabler:sitemap.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> Family Tree
 - Interactive, canvas-based visualization per household
 - Relationship linking (parent, spouse, sibling, custom)
 - Conflict detection on contradictory relationships
@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Verification & Duplicate Detection
+### <img src="https://api.iconify.design/tabler:shield-check.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> Verification & Duplicate Detection
 - Staff approval workflow for new submissions
 - System-wide possible-duplicate scan for similar records
 - Manual review only, no silent auto-merge
@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 </td>
 <td width="50%" valign="top">
 
-### 📊 Analytics & Reports
+### <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> Analytics & Reports
 - Filterable dashboards (purok, age range, civil status)
 - Chart visualizations built on real data
 - One consolidated export point (PDF/CSV/Excel)
@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 <tr>
 <td width="50%" valign="top">
 
-### 📄 Certificates
+### <img src="https://api.iconify.design/tabler:certificate.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> Certificates
 - Public self-service requests via a claim-stub ticket, no account needed
 - Barangay Clearance, Certificate of Residency, Certificate of Indigency
 - Staff-side approval, issuance, and revocation
@@ -82,7 +82,7 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 </td>
 <td width="50%" valign="top">
 
-### 💾 Backup & Legacy Import
+### <img src="https://api.iconify.design/tabler:database-export.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> Backup & Legacy Import
 - One-click backup export/restore for core data
 - Bulk import pipeline from an existing barangay Excel sheet
 - Preview/validation pass with a scoped undo
@@ -92,7 +92,7 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Security & Admin Tools
+### <img src="https://api.iconify.design/tabler:lock.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> Security & Admin Tools
 - Role-based access control (Super Admin / Staff)
 - Full audit log of system activity
 - A "Danger Zone" reset tool for clearing test data pre-launch
@@ -100,7 +100,7 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 </td>
 <td width="50%" valign="top">
 
-### 🔔 Notifications & Audit
+### <img src="https://api.iconify.design/tabler:bell.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> Notifications & Audit
 - Real-time alerts for verification and certificate activity
 - Every action traceable back to who did it and when
 
