@@ -10,13 +10,21 @@
 
 <img src="https://skillicons.dev/icons?i=react,vite,mui,js,ts,nodejs,express,postgres,git" />
 
+<p>
+  <a href="#demo">Demo</a> ·
+  <a href="#features">Features</a> ·
+  <a href="#screenshots">Screenshots</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#team">Team</a>
+</p>
+
 </div>
 
----
+<br />
 
 > 📌 This is a **preview/showcase** of the project - screenshots and a feature overview only. The full source lives in a private repository, since this is an active capstone project built with real barangay data in mind.
 
-A full-stack system built for Barangay San Roque to digitize household records, verify resident identities, visualize family relationships, and generate real analytics - replacing paper-based Excel tracking with a proper, auditable database. Built as a BSIT capstone project, designed to actually be handed off and used by real barangay staff, not just demoed once and shelved.
+Most barangays still run their resident and household records on loose Excel sheets and paper folders - easy to lose, hard to search, and impossible to analyze. This system replaces that with a proper, auditable database: households and residents get real records, staff verify what gets submitted, and the barangay gets actual analytics instead of a guess. Built as a BSIT capstone project, but designed to actually be handed off and used by real barangay staff, not just demoed once and shelved.
 
 ## Demo
 
@@ -26,35 +34,79 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 
 ## Features
 
-**Household & Resident Management**
-- Full household registration wizard with auto-generated house addresses
-- Resident profiles covering demographic, health, and program-eligibility data (PWD, senior citizen, solo parent, OFW, voter status)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Household & Resident Management
+- Registration wizard with auto-generated house addresses
+- Demographic, health, and program-eligibility data (PWD, senior citizen, solo parent, OFW, voter status)
 - Soft-delete/archive workflow instead of destructive deletes
 
-**Family Tree**
-- Interactive, canvas-based family tree visualization per household
-- Relationship linking (parent, spouse, sibling, custom) with conflict detection
+</td>
+<td width="50%" valign="top">
 
-**Verification & Duplicate Detection**
-- Staff approval workflow for new resident/household submissions
-- System-wide possible-duplicate scan that flags similar records for manual review, with no auto-merge
+### 🌳 Family Tree
+- Interactive, canvas-based visualization per household
+- Relationship linking (parent, spouse, sibling, custom)
+- Conflict detection on contradictory relationships
 
-**Analytics & Reports**
-- Filterable dashboards (purok, age range, civil status) with chart visualizations
-- Exports to PDF/CSV/Excel, consolidated into one place instead of scattered per-page buttons
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Certificates**
-- Public self-service requests (Barangay Clearance, Certificate of Residency, Certificate of Indigency) via a claim-stub ticket, no account required
+### ✅ Verification & Duplicate Detection
+- Staff approval workflow for new submissions
+- System-wide possible-duplicate scan for similar records
+- Manual review only, no silent auto-merge
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Analytics & Reports
+- Filterable dashboards (purok, age range, civil status)
+- Chart visualizations built on real data
+- One consolidated export point (PDF/CSV/Excel)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Certificates
+- Public self-service requests via a claim-stub ticket, no account needed
+- Barangay Clearance, Certificate of Residency, Certificate of Indigency
 - Staff-side approval, issuance, and revocation
 
-**Data Backup & Legacy Import**
-- One-click backup export/restore for the core household/resident/family-tree data
-- Bulk import pipeline for migrating an existing barangay Excel record into the system, with a preview/validation pass and a scoped undo
+</td>
+<td width="50%" valign="top">
 
-**Security & Admin Tools**
+### 💾 Backup & Legacy Import
+- One-click backup export/restore for core data
+- Bulk import pipeline from an existing barangay Excel sheet
+- Preview/validation pass with a scoped undo
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Security & Admin Tools
 - Role-based access control (Super Admin / Staff)
 - Full audit log of system activity
-- A "Danger Zone" full data reset tool for clearing test data before real deployment
+- A "Danger Zone" reset tool for clearing test data pre-launch
+
+</td>
+<td width="50%" valign="top">
+
+### 🔔 Notifications & Audit
+- Real-time alerts for verification and certificate activity
+- Every action traceable back to who did it and when
+
+</td>
+</tr>
+</table>
 
 ## Screenshots
 
@@ -100,15 +152,17 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 
 ## Tech Stack
 
-| | |
-|---|---|
-| **Frontend** | React, Vite, MUI, React Hook Form, Zod, TanStack Query, React Flow |
-| **Backend** | Node.js, Express, Sequelize, PostgreSQL |
-| **Auth** | JWT via httpOnly cookies, role-based access control |
+<table>
+<tr><td><b>Frontend</b></td><td>React, Vite, MUI, React Hook Form, Zod, TanStack Query, React Flow</td></tr>
+<tr><td><b>Backend</b></td><td>Node.js, Express, Sequelize, PostgreSQL</td></tr>
+<tr><td><b>Auth</b></td><td>JWT via httpOnly cookies, role-based access control</td></tr>
+</table>
 
 ## Team
 
-Built by **Team ERROR 404** as a BSIT capstone project at **Dalubhasaang Politekniko ng Lungsod ng Baliwag**, Institute of Information Technology and Innovation.
+**Developer:** Master ([@cdwthmstr](https://github.com/cdwthmstr))
+
+Built as part of **Team ERROR 404**'s BSIT capstone project at **Dalubhasaang Politekniko ng Lungsod ng Baliwag**, Institute of Information Technology and Innovation.
 
 ---
 
