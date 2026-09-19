@@ -18,6 +18,10 @@
 
 A full-stack system built for Barangay San Roque to digitize household records, verify resident identities, visualize family relationships, and generate real analytics - replacing paper-based Excel tracking with a proper, auditable database. Built as a BSIT capstone project, designed to actually be handed off and used by real barangay staff, not just demoed once and shelved.
 
+## Demo
+
+**[▶ Watch the full walkthrough](docs/videos/demo.mp4)** (~7 min, click through to GitHub's built-in video player)
+
 ## Features
 
 **Household & Resident Management**
@@ -52,9 +56,6 @@ A full-stack system built for Barangay San Roque to digitize household records, 
 
 ## Screenshots
 
-<!-- Drop your own screenshots into docs/screenshots/ using these exact file names,
-     or rename the paths below to match whatever you save them as. -->
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -82,9 +83,16 @@ A full-stack system built for Barangay San Roque to digitize household records, 
       <sub><b>Household Management</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="docs/screenshots/settings.png" width="100%" /><br />
-      <sub><b>Settings &amp; Admin Tools</b></sub>
+      <img src="docs/screenshots/resident.png" width="100%" /><br />
+      <sub><b>Resident Profile</b></sub>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/screenshots/certificate.png" width="100%" /><br />
+      <sub><b>Certificate Requests</b></sub>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
