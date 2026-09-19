@@ -20,7 +20,9 @@ A full-stack system built for Barangay San Roque to digitize household records, 
 
 ## Demo
 
-**[▶ Watch the full walkthrough](docs/videos/demo.mp4)** (~7 min, click through to GitHub's built-in video player)
+https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
+
+<sub>Full-quality version (~7 min): <a href="docs/videos/demo-full.mp4">docs/videos/demo-full.mp4</a></sub>
 
 ## Features
 
