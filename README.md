@@ -160,7 +160,15 @@ https://github.com/user-attachments/assets/dacdf433-7267-40e0-892a-18a20ef7ceb4
 
 ## Team
 
-**Developer:** Master ([@cdwthmstr](https://github.com/cdwthmstr))
+<table>
+  <tr>
+    <td><a href="https://github.com/cdwthmstr"><img src="https://github.com/cdwthmstr.png" width="60" style="border-radius:50%" /></a></td>
+    <td>
+      <strong><a href="https://github.com/cdwthmstr">@cdwthmstr</a></strong><br />
+      <sub>Developer</sub>
+    </td>
+  </tr>
+</table>
 
 Built as part of **Team ERROR 404**'s BSIT capstone project at **Dalubhasaang Politekniko ng Lungsod ng Baliwag**, Institute of Information Technology and Innovation.
 
