@@ -2,7 +2,7 @@
 
 # <img src="https://api.iconify.design/tabler:building-community.svg?color=%232d4a9e&width=40" width="34" style="vertical-align:middle" /> Barangay San Roque Family Tree System
 
-**Household Profiling, Resident Verification & Data Analytics for real barangay use**
+**Household Profiling, Resident Verification & Data Analytics, built for a real barangay**
 
 <img src="https://img.shields.io/badge/status-capstone%20project-2d4a9e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/source-private%20repo-6b7280?style=for-the-badge" />
@@ -22,9 +22,9 @@
 
 <br />
 
-> 📌 This is a **preview/showcase** of the project - screenshots and a feature overview only. The full source lives in a private repository, since this is an active capstone project built with real barangay data in mind.
+> 📌 This is a **preview/showcase** of the project - screenshots and a feature overview only. The full source lives in a private repository, built and tested using real (and sample) barangay resident data.
 
-Most barangays still run their resident and household records on loose Excel sheets and paper folders - easy to lose, hard to search, and impossible to analyze. This system replaces that with a proper, auditable database: households and residents get real records, staff verify what gets submitted, and the barangay gets actual analytics instead of a guess. Built as a BSIT capstone project, but designed to actually be handed off and used by real barangay staff, not just demoed once and shelved.
+Most barangays still run their resident and household records on loose Excel sheets and paper folders - easy to lose, hard to search, and impossible to analyze. This system was built to replace that with a proper, auditable database: households and residents get real records, staff verify what gets submitted, and the barangay gets actual analytics instead of a guess. Built as a BSIT capstone project, designed for real handoff to Barangay San Roque, pending their approval to actually adopt it.
 
 ## Demo
 
